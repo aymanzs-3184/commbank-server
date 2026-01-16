@@ -83,7 +83,7 @@ $RECYCLE.BIN/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-secrets.json
+CommBank-Server/Secrets.json
 
 # Build results
 [Dd]ebug/
